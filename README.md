@@ -10,7 +10,7 @@ I'm a web developer from Argentina. I have a degree in Psychology and I'm curren
 
 - 🌱 I’m currently learning ReactJs
 - 📫 How to reach me: <div>
-    <a href="https://www.linkedin.com/in/mcecifernandez/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"               title="Linkedin" alt="Linkedin" width="40"/>
+    <a href="https://www.linkedin.com/in/mcecifernandez/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"               title="Linkedin" alt="Linkedin" width="40"/></a>
     </div>
 - 🛠️ My languages and tools:
  <div>
