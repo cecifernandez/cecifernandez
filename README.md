@@ -1,12 +1,10 @@
-## About me
-
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ6Y3RxcW4zamE5enB0anNlZHVscm0wdXcyOHhhMjM5eXF3dTJiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="300"/>
 </div>
 
+## 👩‍💻About me
 <!--
 **cecifernandez/cecifernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
